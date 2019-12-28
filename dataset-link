@@ -1,0 +1,6 @@
+The link to the dataset:
+https://datahack.analyticsvidhya.com/contest/practice-problem-urban-sound-classification/
+
+the exclude.csv and exclude-test.csv files were created using the paser function in the jupyter notebook code. 
+
+the parser function is run on both the test and train files and the errors are copied to a csv file which is then imported and used to mask the incorrect/mismatched/corrupt indices.
